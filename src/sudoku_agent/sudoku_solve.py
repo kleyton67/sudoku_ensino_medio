@@ -3,7 +3,7 @@ import time
 from user.screen import pygame
 from user.table import Sudoku
 from user.components import draw_board
-from user.components import screen, green, red, white
+from user.screen import screen, green, red, white
 
 def solve_backtracking(game: Sudoku):
         '''

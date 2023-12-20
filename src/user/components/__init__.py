@@ -1,8 +1,6 @@
-import sys
-import time
 import pygame
-from user.components import cell_size, buffer, major_grid_size, \
-minor_grid_size, screen, black, width, green, red, gray, white
+from user.screen import cell_size, buffer, major_grid_size, \
+minor_grid_size, screen, black, width, green, red, gray
 
 
 class RectCell(pygame.Rect):

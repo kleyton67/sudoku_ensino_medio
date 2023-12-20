@@ -2,9 +2,10 @@ import sys
 import numpy as np
 from user.screen import pygame
 from user.table import Sudoku
+from sudoku_agent.sudoku_solve import visual_solve
 from sudoku_agent.sudoku_gen import generate_sudoku
 from user.components.__init__ import create_cells, draw_board, \
-    draw_button, visual_solve
+    draw_button
 from user.screen import buffer, screen, black, width, green, white, \
     height, button_height, button_border, button_width, inactive_btn, \
     active_btn
