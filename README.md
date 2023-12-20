@@ -1,0 +1,2 @@
+# Solução de Sudoku para Alunos do Ensino Médio
+Esse repositório é de propósito educativo e serve para apresentação a alunos sobre as diferentes abordagens de espaço de busca e espaço de estados, assim como os algoritmos envolvidos. Por conta disso grande parte do conteúdo foi coletado utilizando outros repositórios como o citado (https://github.com/Kistler21/pygame-sudoku).
